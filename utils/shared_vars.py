@@ -1,0 +1,18 @@
+shared_data = {
+    "LAST_FOCUSED_APP": None,
+    "LAST_FOCUSED_TAB": None,
+    "LAST_FOCUSED_TAB_URL": None,
+    "LAST_ACTIVE_IO": None,
+    "LAST_FOCUSED_APP_PATH": None,
+    "LAST_FOCUSED_APP_TITLE": None,
+    "CURRENTLY_FOCUSED_APP": "",
+    "CURRENTLY_FOCUSED_TAB": "",
+    "CURRENTLY_ACTIVE_IO": None,
+    "LAST_ACTIVE_TIME": None,
+    "LAST_EVENT_SAVE_TIME": None,
+    "LAST_EVENT_MAIN_BODY": {},
+    "CURRENTLY_LOGGED_COORDINATES": [],
+    "CURRENTLY_LOGGED_KEY_STROKES": [],
+    "IS_INACTIVE": False,
+    "PUBLIC_IP": None,
+}
